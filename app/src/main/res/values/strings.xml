@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PhotoSearch</string>
+    <string name="internet_offline">Please switch On the internet connection</string>
+    <string name="server_error">Unable to connect to the server</string>
+    <string name="error_bad_request">A Server with the specified host is not found</string>
+    <string name="default_search_text">Enter Text to Search</string>
+    <string name="json_exception_text">JSON Exception Occurred</string>
+    <string name="text_view_search">Press Search Key in InputKeyBoard</string>
+</resources>
