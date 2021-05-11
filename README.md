@@ -17,7 +17,7 @@ ConstraintLayout and Recycler Views have been used.
 
 Added Features:
 Added Debug and Error Logs
-Documnetation for all methods and API calls
+Documentation for all methods and API calls
  
 
 Following Design Patterns being used:
