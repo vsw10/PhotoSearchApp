@@ -45,7 +45,10 @@ Time Spend: 1-2 hours
 Resolution:
 I tried with my Android Device and its working fine.
 
+
 Time Taken to develop the App : 6 - 9 hours.
+Tested on Android Device and Android Emulator.
+It's working fine on Emulator and Android Device.
 
 ToDO:
 1. Display in Full Size(Display in Single Image)
